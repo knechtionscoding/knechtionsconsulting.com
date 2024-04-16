@@ -22,7 +22,7 @@ module.exports = {
           // If set, the Google Analytics integration is enabled
           trackingId: 'G-Y1VJSLGR2S', // e.g. UA-XXXXXX-X
           anonymize: true, // Default is true
-          environments: [], // Default ["production"]
+          environments: ['production'], // Default ["production"]
         },
       },
     },
