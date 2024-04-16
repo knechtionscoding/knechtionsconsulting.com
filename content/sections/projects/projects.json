@@ -1,7 +1,28 @@
 {
   "projects": [
     {
-      "visible": false,
+      "visible": true,
+      "category": "Cloud Engineering",
+      "title": "Example Infrastructure Report",
+      "description": "Example Client Deliverable for a Cloud Infrastructure Report. This report represents a comprehensive assessment of the AWS and EKS infrastructure, Github Configuration, and CI/CD practices.",
+      "tags": [
+        "Cloud Engineering",
+        "Best Practices"
+      ],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Cloud Report",
+        "linkTo": "https://knechtions.com/infra-cloud-report.pdf"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://knechtions.com/infra-cloud-report.pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Cloud Engineering",
       "title": "Best Practices for EKS Setup",
       "description": "Reference architecture for setting up an EKS cluster with best practices. This includes setting up a VPC, IAM roles, GitOps configuration via ArgoCD, and an example CI/CD pipeline.",
