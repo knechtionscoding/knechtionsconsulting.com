@@ -1,0 +1,27 @@
+{
+  "intro": "Hejsan",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "We Are Knechtions Consulting",
+  "subtitle": {
+    "prefix": "We help your cloud environment be better ",
+    "highlight": "for you",
+    "suffix": "."
+  },
+  "description": "A boutique consulting firm specializing in cloud and site reliability engineering, developer experience, and security and observability architecture/consulting.",
+  "socialProfiles": {
+    "from": [
+      "LinkedIn",
+      "Medium",
+      "Github",
+      "Mail"
+    ],
+    "showIcons": false
+  }
+}

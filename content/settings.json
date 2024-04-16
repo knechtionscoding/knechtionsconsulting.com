@@ -1,0 +1,63 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://knechtionsconsulting.com",
+    "title": "Cloud and Platform Engineering for your Company",
+    "titleTemplate": "%s · Knechtions Consulting",
+    "description": "Delivering all your cloud and platform engineering needs.",
+    "author": "Hans Knecht",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "github": "https://github.com/knechtionscoding",
+      "medium": "https://medium.com/@hans.knechtions",
+      "linkedin": "https://www.linkedin.com/in/knechtions/",
+      "mail": "mailto:contact@hans-knecht.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": {
+      "text": "Portfolio"
+    },
+    "navigation": {
+      "header": [
+        {
+          "label": "About",
+          "url": "/#about"
+        },
+        {
+          "label": "Blog",
+          "url": "/blog"
+        },
+        {
+          "label": "Best Practices",
+          "url": "/#best-practices"
+        },
+        {
+          "label": "Github",
+          "url": "/#github"
+        }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/Hans-Knecht.pdf"
+      },
+      "footer": [
+        {
+          "label": "Privacy",
+          "url": "/privacy"
+        },
+        {
+          "label": "Imprint",
+          "url": "/imprint"
+        }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": true
+    }
+  }
+}

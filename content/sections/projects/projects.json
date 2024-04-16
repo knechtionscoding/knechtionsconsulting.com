@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "visible": false,
+      "category": "Cloud Engineering",
+      "title": "Best Practices for EKS Setup",
+      "description": "Reference architecture for setting up an EKS cluster with best practices. This includes setting up a VPC, IAM roles, GitOps configuration via ArgoCD, and an example CI/CD pipeline.",
+      "tags": [
+        "Cloud Engineering",
+        "Best Practices"
+      ],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/knechtionscoding/reference-architectures"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/knechtionscoding/reference-architectures"
+        },
+        {
+          "type": "external",
+          "url": "https://fakegithubpagesurl.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Developer Experience",
+      "title": "Github Template with Github Best Practices",
+      "description": "For developers who want to start a new project with best practices in mind. This template includes a README with a project overview, a CONTRIBUTING.md file, and a CODE_OF_CONDUCT.md file. It also includes tool integrations like Renovate, Github Actions with CI/CD pipelines, and other code scanning tools",
+      "tags": [
+        "Besst Practices",
+        "Developer Experience",
+        "Security"
+      ],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/knechtionscoding/github-repo-template"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/knechtionscoding/knechtionsconsulting.com"
+  }
+}
