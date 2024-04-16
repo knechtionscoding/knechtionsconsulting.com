@@ -1,6 +1,6 @@
 # knechtions.com
 
-Website for Knechtions Consulting.com
+Website for Knechtions.com
 
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
